@@ -90,3 +90,4 @@ cp sourses.csv courses_test.csv
 \cp sourses.csv courses_test.csv
 cp courses.csv courses_test.csv
 ./insert_data.sh
+TRUNCATE majors
